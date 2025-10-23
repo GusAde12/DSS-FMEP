@@ -1,0 +1,42 @@
+[2019-03-11:11:37:52] Nama Admin : saiful => Edit Hutang => 17 => Sukses 
+
+[2024-18-12:16:40:27] Nama Admin : Super Admin => Edit Pemasukan => 1 => Sukses Edit
+
+[2024-18-12:16:41:26] Nama Admin : Super Admin => Edit Pemasukan => 2 => Sukses Edit
+
+[2024-18-12:16:49:34] Nama Admin: Super Admin => Edit Pemasukan => ID: 1 => Sukses Edit, Data: Tanggal=2024-12-18, Jumlah=10000000, Sumber=1
+
+[2024-18-12:16:49:50] Nama Admin: Super Admin => Edit Pemasukan => ID: 1 => Sukses Edit, Data: Tanggal=2024-12-18, Jumlah=10000000, Sumber=2
+
+[2024-18-12:16:49:57] Nama Admin: Super Admin => Edit Pemasukan => ID: 1 => Sukses Edit, Data: Tanggal=2024-12-18, Jumlah=10000000, Sumber=1
+
+[2024-18-12:16:50:06] Nama Admin: Super Admin => Edit Pemasukan => ID: 2 => Sukses Edit, Data: Tanggal=2024-12-17, Jumlah=12000000, Sumber=2
+
+[2024-18-12:17:25:28] Nama Admin: Super Admin => Edit Pemasukan => ID: 1 => Sukses Edit, Data: Tanggal=2024-12-18, Jumlah=10000000, Sumber=2
+
+[2024-18-12:17:25:36] Nama Admin: Super Admin => Edit Pemasukan => ID: 1 => Sukses Edit, Data: Tanggal=2024-12-18, Jumlah=10000000, Sumber=1
+
+[2024-12-19 01:42:48] Nama Admin: Super Admin => Tambah Pemasukan: Tanggal=2024-12-19, Jumlah=5000000, ID Sumber=1, Nama Sumber=Pendapatan Penjualan Udang => Sukses
+[2024-12-19 01:43:14] Nama Admin: Super Admin => Tambah Pemasukan: Tanggal=2024-12-19, Jumlah=2000000, ID Sumber=2, Nama Sumber=Pendapatan Lain-lain => Sukses
+[2024-19-12:01:43:30] Nama Admin: Super Admin => Edit Pemasukan => ID: 5 => Sukses Edit, Data: Tanggal=2024-12-19, Jumlah=2000000, Sumber=1
+
+[2024-19-12:01:43:35] Nama Admin: Super Admin => Edit Pemasukan => ID: 5 => Sukses Edit, Data: Tanggal=2024-12-19, Jumlah=2000000, Sumber=2
+
+[2024-12-19 01:48:47] Nama Admin: Super Admin => Tambah Pengeluaran: Tanggal=2024-12-19, Jumlah=200000, ID Sumber=6, Nama Sumber=Beban Pakan Udang => Sukses
+[2024-12-19 01:49:14] Nama Admin: Super Admin => Tambah Pengeluaran: Tanggal=2024-12-19, Jumlah=500000, ID Sumber=7, Nama Sumber=Beban Benih Udang => Sukses
+[2024-19-12:01:50:31] Nama Admin: Super Admin => Edit Pemasukan => ID: 1 => Sukses Edit, Data: Tanggal=2024-12-18, Jumlah=10000000, Sumber=1
+
+[2024-19-12:01:58:30] Nama Admin: Super Admin => Edit Pemasukan => ID: 1 => Sukses Edit, Data: Tanggal=2024-12-18, Jumlah=10000000, ID Sumber=2, Nama Sumber=Pendapatan Lain-lain
+
+[2024-19-12:01:58:35] Nama Admin: Super Admin => Edit Pemasukan => ID: 2 => Sukses Edit, Data: Tanggal=2024-12-17, Jumlah=12000000, ID Sumber=1, Nama Sumber=Pendapatan Penjualan Udang
+
+[2024-19-12:01:58:47] Nama Admin: Super Admin => Edit Pemasukan => ID: 3 => Sukses Edit, Data: Tanggal=2024-12-18, Jumlah=15000000, ID Sumber=1, Nama Sumber=Pendapatan Penjualan Udang
+
+[2024-19-12:02:45:55] Nama Admin: Super Admin => Edit Pemasukan => ID: 3 => Sukses Edit, Data: Tanggal=2024-12-18, Jumlah=15000000, ID Sumber=2, Nama Sumber=Pendapatan Lain-lain
+
+[2024-19-12:02:45:59] Nama Admin: Super Admin => Edit Pemasukan => ID: 3 => Sukses Edit, Data: Tanggal=2024-12-18, Jumlah=15000000, ID Sumber=1, Nama Sumber=Pendapatan Penjualan Udang
+
+[2024-19-12:02:51:28] Nama Admin: Super Admin => Edit Pengeluaran => ID: 1 => Sukses Edit, Data: Tanggal=2024-12-19, Jumlah=2000000, ID Sumber=9, Nama Sumber=Beban Pemeliharaan Kolam dan Peralatan
+
+[2024-19-12:02:51:38] Nama Admin: Super Admin => Edit Pengeluaran => ID: 2 => Sukses Edit, Data: Tanggal=2024-12-19, Jumlah=500000, ID Sumber=6, Nama Sumber=Beban Pakan Udang
+
